@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on any project on Excel, SQL or Power BI
-- 📫 How to reach me email me isadare.ore@gmail.com
+- 📫 How to reach me: Email me isadare.ore@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I beleive in Jesus
 
