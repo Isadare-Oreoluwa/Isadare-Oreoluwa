@@ -1,9 +1,3 @@
-Yes, adding a Table of Contents (ToC) to your README file is a great idea, especially if your document is lengthy or contains multiple sections. A ToC helps users quickly navigate to different parts of the README, improving the overall usability and readability. 
-
-Here’s how you can include a Table of Contents in your README:
-
----
-
 # SQL Projects Overview
 
 ## Table of Contents
@@ -42,4 +36,4 @@ To get started with any of the projects:
 4. **Run the provided SQL scripts to replicate the analysis.**
 
 ## Contact
-For any questions or inquiries, please reach out to [your email](mailto:isadare.ore@gmail.com).
+For any questions or inquiries, please reach out to [me](mailto:isadare.ore@gmail.com).
