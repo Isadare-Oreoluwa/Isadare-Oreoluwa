@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-   - [High-Growth Industry Analysis: Unicorn Companies](#high-growth-industry-analysis-:-unicorn-companies)
+   - [High-Growth Industry Analysis: Unicorn Companies](#high-growth-industry-analysis-unicorn-companies)
 3. [Getting Started](#getting-started)
 4. [Contact](#contact)
 
