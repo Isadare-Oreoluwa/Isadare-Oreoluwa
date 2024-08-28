@@ -8,14 +8,14 @@
 4. [Contact](#contact)
 
 ## Introduction
-Welcome to my collection of SQL projects! This repository showcases various SQL analyses and queries I have developed to solve real-world problems and gain insights from data. Each project includes SQL scripts and, where applicable, descriptions of the dataset, analysis approach, and results.
+Welcome to my collection of SQL projects!
 
 ## Projects
 
-### 1. **High-Growth Industry Analysis: Unicorn Companies**
+### High-Growth Industry Analysis: Unicorn Companies
 - **Description:** Analyzes trends in high-growth companies by identifying industries with the highest valuations and understanding the rate at which new high-value companies (unicorns) are emerging.
 - **Datasets:** Provided as CSV files, including details about company valuations, funding, industries, and company information.
-- **Key SQL Queries:** 
+- **Key SQL Queries:**
   - Identifies top industries by the number of unicorns.
   - Calculates average valuations for these industries.
 - **Results:** Identifies top 3 industries with the most unicorns from 2019 to 2021 and calculates average valuations.
