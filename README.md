@@ -8,7 +8,7 @@
 4. [Contact](#contact)
 
 ## Introduction
-Welcome to my collection of SQL projects!
+Welcome to my collection of SQL projects! This repository showcases various SQL-based analyses focused on extracting insights from different datasets.
 
 ## Projects
 
@@ -18,22 +18,14 @@ Welcome to my collection of SQL projects!
 - **Key SQL Queries:**
   - Identifies top industries by the number of unicorns.
   - Calculates average valuations for these industries.
-- **Results:** Identifies top 3 industries with the most unicorns from 2019 to 2021 and calculates average valuations.
-- **Instructions:** Load the CSV files into a DBMS and execute the SQL script.
+- **Results:** Highlights the top 3 industries with the most unicorns from 2019 to 2021 and calculates their average valuations.
 - **Data Source:** The dataset used in this project was sourced from a DataCamp project "Analyzing Unicorn Companies".
 
 ## Getting Started
-To get started with any of the projects:
-1. **Clone this repository:**
-   ```sh
-   git clone https://github.com/Isadare-Oreoluwa/SQL-projects.git
-   ```
-2. **Navigate to the project directory:**
-   ```sh
-   cd SQL-projects
-   ```
-3. **Load the dataset into your database management system (DBMS).**
-4. **Run the provided SQL scripts to replicate the analysis.**
+
+- **Viewing the Projects:**
+  - Browse the repository to explore different SQL scripts and datasets.
+  - Click on individual files to view them directly on GitHub or download them for offline use.
 
 ## Contact
-For any questions or inquiries, please reach out to [me](mailto:isadare.ore@gmail.com).
+For any questions or inquiries, please reach out to me via [email](mailto:isadare.ore@gmail.com).
