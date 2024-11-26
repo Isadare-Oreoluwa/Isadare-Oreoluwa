@@ -22,8 +22,8 @@ Welcome to my collection of SQL projects! This repository showcases various SQL-
 - *Results:* Highlights the top 3 industries with the most unicorns from 2019 to 2021 and calculates their average valuations.
 - *Data Source:* The dataset used in this project was sourced from a DataCamp project, "Analyzing Unicorn Companies."
 - *Files:*  
-  - [SQL Script](https://github.com/Isadare-Oreoluwa/SQL-projects/blob/SQL-main/Projects/High-Growth%20Industry%20Analysis/analysis.sql)  
-  - [Datasets](https://github.com/Isadare-Oreoluwa/SQL-projects/blob/SQL-main/Projects/High-Growth%20Industry%20Analysis/Data.zip)
+  - [SQL Script](https://github.com/Isadare-Oreoluwa/SQL-projects/blob/SQL-main/Projects/High-Growth%20Industry%20Analysis-Unicorn%20Companies/unicorn%20script.sql)  
+  - [Datasets](https://github.com/Isadare-Oreoluwa/SQL-projects/tree/SQL-main/Projects/High-Growth%20Industry%20Analysis-Unicorn%20Companies/datasets)
 
 ## All Projects
 
